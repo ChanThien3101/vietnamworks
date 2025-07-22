@@ -115,7 +115,8 @@
     <div class="container">
         <ul class="job-list-item align-items-center">
             <li>
-                <a href="#">Kết quả tìm thấy <span><span><?= $total ?></span></span></a>
+                <!-- <a href="#">Kết quả tìm thấy <span><span><?= $total ?></span></span></a> -->
+                <a href="#">Kết quả tìm thấy: <span><span></span></span></a>
             </li>
             <li></li>
         </ul>
